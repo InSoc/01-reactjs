@@ -1,3 +1,19 @@
+# public --
+# src
+# assets
+  # img...
+# components
+# routes
+# services ...apis
+# store ---redux
+# styles ...css/scss
+# utils...
+# views...
+
+# npx create-react-app abcxxx
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
