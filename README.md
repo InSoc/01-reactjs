@@ -1,18 +1,34 @@
 # public --
+
 # src
+
 # assets
-  # img...
+
+# img...
+
 # components
+
 # routes
+
 # services ...apis
+
 # store ---redux
+
 # styles ...css/scss
+
 # utils...
+
 # views...
 
 # npx create-react-app abcxxx
 
+# 1. state is memory lưu lại trạng thái ứng dụng
 
+# 2. setState({}) update state and rerender content
+
+# 3. -- Summary
+
+define component
 
 # Getting Started with Create React App
 
